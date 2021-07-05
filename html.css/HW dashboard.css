@@ -1,0 +1,148 @@
+.whole{
+    text-align: center;
+    border: 6px solid darkgreen;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+    h1{
+      font-size:35px;
+      color:red;
+    }
+    p{
+      font-size:30px;
+    }
+    a{
+      text-decoration:none;
+    }
+    .form-wrapper{
+     border: 30px groove rgb(13, 151, 13);
+     width: 90%;
+     height: 650px;
+     margin-top: 30px;
+     margin-left: 30px;
+     border-radius: 5px;
+    }
+    .form-wrapper h1,
+    .form wrapper p{
+      margin-top:20px;
+      margin-bottom:20px;
+    }
+    .form-wrapper .form-group{
+      margin-bottom:6px;
+      margin-top:4px;
+    }
+    
+    .form-wrapper .form-wrapper input{
+      padding:20px;
+      border:solid;
+      border-radius:10px;
+    }
+    .form-wrapper .btn.bg-light{
+      background:#eee;
+      color:#333;
+      border-color:#eee;
+    }
+    .form-wrapper .btn.bg-light:hover{
+      background:#ddd;
+    }
+    .action-btns{
+      margin:auto;
+      margin-top: 2px;
+     
+    }
+    .form-footer{
+      text-align:center;
+      background-color:#32CD32 ;
+      height: 50px;
+      margin-bottom: 0px;
+      padding-top: 15px;
+    }
+    
+    img{
+      width: 600px;
+      display:flex;
+      text-align:left;
+      padding:5px;
+      height: 410px;
+      margin-top: 0px;
+    }
+    
+    span{
+      display:flex;
+      float:left;
+      width:500px;
+    }
+    
+    #issue{
+      width:400px;
+      height:30px;
+    }
+    #organ{
+      width:400px;
+      height:25px;
+    }
+    #doctor{
+      width:400px;
+      height:25px;
+    }
+    #analysis{
+      width:400px;
+      height:25px;
+    }
+    #confirm{
+      width:400px;
+      height:25px;
+    }
+    #suggestion{
+      width:400px;
+      height:25px;
+    }
+    
+    .form-bottom-info{
+      font-size:30px;
+    }
+    .label{
+      font-size:25px;
+    }
+    .header{
+      width:1000px;
+      height:40px;
+    }
+    #h{
+      color: blue;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    #h:hover{
+      color: red;
+    }
+    img.cross{
+        height: 25px;
+        width: 25px;
+        float: right;
+    }
+    .cross:hover{
+        background-color: rgb(219, 199, 199);
+    }
+    #c{
+        color: red;
+    }
+    #c:hover{
+        color: whitesmoke;
+    }
+    input.submit{
+      background-color: rgb(40, 44, 247);
+      color:white;
+      text-align: center;
+      width: 120px;
+      height: 30px;
+     margin-top:  4px  ;
+     margin-bottom: 4px;
+
+    }
+    .submit:hover{
+      background-color: red;
+    }
+    
+    
+   

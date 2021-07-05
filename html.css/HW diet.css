@@ -1,0 +1,115 @@
+.whole{
+    text-align: center;
+    border: 6px solid darkgreen;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+    .links{
+      text-decoration: none;
+     
+    }
+    nav{
+      background-color: #32CD32;
+      height: 80px;
+      width: 100%;
+      padding-top: 30px;
+    }
+    a{
+      color: black;
+      font-size: 30px;
+      padding: 30px;  
+    }
+    a:hover
+    {
+      color:red;
+    }
+
+.navbar{
+    background-color: white;
+  }
+  .navbar ul{
+    overflow:auto;
+  }
+  .navbar li{
+    float:right;
+    list-style:none;
+    margin:13px 5px;
+  }
+  .navbar li a{
+    padding:3px 3px;
+    text-decoration:none;
+    color:white;
+    font-family:gabriola;
+  }
+  .navbar li a:hover{
+    color:black;
+  }
+  
+  .search{
+    float:right;
+    color:blue;
+    padding:px 60px;
+  }
+  .navbar input{
+    border:2px solid black;
+    border-radius:10px;
+    padding:3px 17px;
+    width:120px;
+  }
+  #search{
+    width:150px;
+    height:30px;
+    color:blue;
+    padding:5px;
+    text-align:center;
+  }
+  .head{
+    color:blue;
+   font-size:40px;
+    text-align:center;
+    text-align:left;
+  }
+  h3{
+    margin:15px;
+    color:blue;
+    font-size:20px;
+    box-sizing:border-box;
+    border:solid 2px black;
+    width: 150px;
+    
+  }
+  h4{
+    margin: 20px;
+    color:indigo;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: left;
+    
+  }
+  
+  li{
+    font-size:20px;
+  }
+  p{
+    font-size:20px;
+  }
+  #search{
+    width: 150px;
+    margin-top: -80px;
+    float: right;
+    margin-right: 5px;
+    border: 1px solid green;
+    border-radius: 8px;
+  }
+  #foods{
+    text-align: left;
+  }
+  h1{
+    text-align: left;
+    margin-left: 5px;
+    color: red;
+  }
+  p{
+    text-align: left;
+    margin-left: 5px;
+  }

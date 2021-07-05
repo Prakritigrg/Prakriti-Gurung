@@ -1,0 +1,166 @@
+.whole{
+  text-align: center;
+  border: 6px solid darkgreen;
+  border-radius: 4px;
+  margin-top: 5px;
+}
+  .links{
+    text-decoration: none;
+   
+  }
+  nav{
+    background-color: #32CD32;
+    height: 80px;
+    width: 100%;
+    padding-top: 30px;
+  }
+  a{
+    color: black;
+    font-size: 30px;
+    padding: 30px;  
+  }
+  a:hover
+  {
+    color:red;
+  }
+  
+  H1{
+    text-align:center;
+    color:green;
+  }
+  
+  .container{
+    box-sizing:border-box;
+    border:solid 5px #32CD32;
+    width: 1110px;
+    height:770px;
+    margin:20px;
+    margin-left: 110px;
+    border-radius: 15px;
+  }
+  .facebook{
+    box-sizing:border-box;
+    color:white;
+    background:green;
+    font-size:50px;
+    width:1100px;
+    height:100px;
+    font-family:hervica serif;
+    margin:0px;
+    padding:25px;
+  }
+  p{
+    font-size:30px;
+   float:center;
+  }
+  .top{
+    box-sizing :border-box;
+    width:90px;
+    height:50px;
+    border-radius:5px;
+    font-size:15px;
+    color:white;
+    background:red;
+  }
+  .action-btns{
+    color:white;
+    width:80px;
+    height:50px;
+  }
+  .btns{
+    width:500px;
+    height:50px;
+    color:white;
+    background:#32CD32;
+    font-size:40px;
+    margin-left: 150px;
+    text-align:center;
+  }
+  .foot-botton{
+    width:500px;
+    height:50px;
+    font-size:40px;
+    color:white;
+    background:#32CD32;
+    box-shadow : 0 8px 16px 0 green,  0 6px 20px  0 rgba(0, 0, 0, 0.19);
+   
+  }
+  
+  
+  .form{
+    font-size:30px;
+  }
+  .footer{
+    text-align:center;
+    font-size:30px;
+    text-decoration:no;
+  }
+  .form-wrapper{
+    text-align:center;
+  }
+  #name{
+    width:400px;
+    height:40px;
+  }
+  #pw{
+    width:400px;
+    height:40px;
+  }
+  
+  .left{ 
+    width:100%;
+    text-align:center;
+    border-bottom: 1px solid #000; 
+    line-height:0.1em; 
+    margin:10px 0 25px;
+  } 
+  p span {
+    background:#fff;
+    padding:0 10px; 
+    text-align:center;
+  }
+  #home{
+    color:white;
+  }
+  #blogs{
+    color:white;
+  }
+  .footer{
+   color:#32CD32;
+  }
+  img{
+    display:flex;
+    float:right;
+  }
+  button:hover{
+    background-color: darkgreen;
+  }
+  a:hover
+  {
+    color:red;
+    
+  }
+  #bottom{
+   text-decoration: none;
+  }
+  .logo{
+    display: flex;
+    margin-left: 600px;
+  }
+  
+  p{
+    font-size: 20px;
+    margin-top: -1px;
+  }
+p.i{
+  text-align: left;
+  margin-left:150px;
+  font-size: 25px;
+}
+a.l{
+  text-decoration: none;
+  color: white;
+}
+  
+  
+  
